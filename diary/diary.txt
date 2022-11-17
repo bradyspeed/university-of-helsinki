@@ -1,0 +1,1 @@
+cd c:/Users/brady/AppData/Local/tmc/vscode/mooc-programming-22/part06-11_diary/srcThis is a test!Woohoo!
